@@ -1,0 +1,23 @@
+import Analysis from './Analysis';
+import Dentist from './Dentist';
+import Glasses from './Glasses';
+import FrameGlasses from './FrameGlasses';
+import Hospital from './Hospital';
+import Optic from './Optic';
+import Other from './Other';
+import Pharmacy from './Pharmacy';
+import Hexagon from './Hexagon';
+import HexagonalIconBase from './HexagonalIcon';
+import IconBase from './Icon';
+
+export const AnalysisIcon = Analysis;
+export const DentistIcon = Dentist;
+export const GlassesIcon = Glasses;
+export const FrameGlassesIcon = FrameGlasses;
+export const HospitalIcon = Hospital;
+export const OpticIcon = Optic;
+export const OtherIcon = Other;
+export const PharmacyIcon = Pharmacy;
+export const HexagonIcon = Hexagon;
+export const HexagonalIcon = HexagonalIconBase;
+export const Icon = IconBase;
